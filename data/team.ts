@@ -1,4 +1,6 @@
-// src/data/team.ts (or "data/team.ts" at project root)
+```ts
+// data/team.ts
+
 export const teamMembers = [
   {
     name: "Vinayak Pandey",
@@ -20,7 +22,6 @@ export const teamMembers = [
     offsetX: 0,
     offsetY: 0,
   },
- ,
   {
     name: "Vatsal Varshney",
     title: "Chief Developer Officer",
@@ -41,8 +42,6 @@ export const teamMembers = [
     offsetX: 0,
     offsetY: 0,
   },
-  
-    offsetY: 0,
-  },
   // add more members as needed
 ];
+```
