@@ -20,16 +20,7 @@ export const teamMembers = [
     offsetX: 0,
     offsetY: 0,
   },
-  {
-    name: "Shifa Parveen",
-    title: "Chief Technology Officer",
-    imgSrc: "/team/Shifa-Parveen.jpeg",
-    linkedin: "https://www.linkedin.com/in/shifa-parveen-45a5b0326/",
-    width: 128,
-    height: 128,
-    offsetX: 0,
-    offsetY: 0,
-  },
+ ,
   {
     name: "Vatsal Varshney",
     title: "Chief Developer Officer",
@@ -50,14 +41,7 @@ export const teamMembers = [
     offsetX: 0,
     offsetY: 0,
   },
-  {
-    name: "Raushan Singh",
-    title: "Chief Operations Officer",
-    imgSrc: "/team/Raushan-Singh.jpeg",
-    linkedin: "https://www.linkedin.com/in/raushan-singh-13285823a/",
-    width: 128,
-    height: 128,
-    offsetX: 0,
+  
     offsetY: 0,
   },
   // add more members as needed
