@@ -1,6 +1,3 @@
-```ts
-// data/team.ts
-
 export const teamMembers = [
   {
     name: "Vinayak Pandey",
@@ -42,6 +39,4 @@ export const teamMembers = [
     offsetX: 0,
     offsetY: 0,
   },
-  // add more members as needed
 ];
-```
