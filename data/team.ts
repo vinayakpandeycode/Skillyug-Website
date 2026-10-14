@@ -22,7 +22,7 @@ export const teamMembers = [
    {
     name: "Shifa Parveen",
     title: "SDE - Intern",
-    imgSrc: " ",
+    imgSrc: "/team/Shifa=Parveen.jpeg ",
     linkedin: "https://www.linkedin.com/in/shifa-parveen-45a5b0326/",
     width: 128,
     height: 128,
